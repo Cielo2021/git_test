@@ -1,2 +1,7 @@
 # git_test
-First git for ODIN Project 
+
+First git for ODIN Project
+
+Hello Odin!
+
+Hey World!
